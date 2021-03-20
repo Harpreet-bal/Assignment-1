@@ -1,3 +1,9 @@
+//Name: Harpreet Kaur
+//Student ID : 201906009
+//Date submitted : 20 March,2021
+//Class IN2203 G2
+//Assigment 1 : The Gambling Game//
+
 import java.util.*;
 public class MainApplication{
 public static void main(String[] args){
