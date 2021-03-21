@@ -1,7 +1,7 @@
 //Name: Harpreet Kaur
 //Student ID : 201906009
 //Date submitted : 20 March,2021
-//Class IN2203 G2
+//Class IN2203 G2 SAT 8 am
 //Assigment 1 : The Gambling Game//
 
 import java.util.*;
